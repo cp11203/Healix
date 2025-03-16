@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Camera Usage Description</key>
+	<string>Healix needs camera access to capture images of your symptoms for better medical assessment.</string>
+	<key>Microphone Usage Description</key>
+	<string>Healix needs microphone access for speech-to-text when recording your symptoms.</string>
+	<key>Speech Recognition Usage Description</key>
+	<string>Healix uses speech recognition to convert your spoken symptom descriptions to text</string>
+	<key>NSCameraUsageDescription</key>
+	<string>Healix needs camera access to capture images of your symptoms for better medical assessment.</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Healix needs microphone access for speech-to-text when recording your symptoms.</string>
+	<key>NSSpeechRecognitionUsageDescription</key>
+	<string>Healix uses speech recognition to convert your spoken symptom descriptions to text</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Healix needs access to your photo library to upload photos of visible symptoms</string>
+	<key>NSPersistentContainer</key>
+	<string>Healix</string>
+</dict>
+</plist>
